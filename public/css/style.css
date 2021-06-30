@@ -1,0 +1,23 @@
+.link-unstyled{
+    text-decoration: none;
+    color:inherit; 
+}
+.link-unstyled:hover{
+    text-decoration: none;
+    color:inherit; 
+}
+.link-styled{
+    text-decoration: none;
+    color: inherit;
+}
+.link-styled:hover{
+    text-decoration: none;
+    color: inherit;
+}
+.link-hover:hover{
+    color: gray;
+}
+
+.card>*{
+    user-select: none;
+}
